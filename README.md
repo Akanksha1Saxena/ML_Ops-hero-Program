@@ -7,3 +7,5 @@ check readme file, changes
 outcome of live session#1
 
 second example
+
+commit without any message
