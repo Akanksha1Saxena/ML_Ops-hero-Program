@@ -2,25 +2,4 @@ check readme file, changes
 # trigger
 # trigger
 # trigger
-#trigger 2025
-
-outcome of live session#1
-
-second example
-
-commit without any message
-# test commit
-# test commit
-ci test Thu Nov 13 19:35:30 EST 2025
-ci test Thu Nov 13 19:36:19 EST 2025
-ci test Thu Nov 13 19:37:36 EST 2025
-ci test Thu Nov 13 19:38:35 EST 2025
-ci test Thu Nov 13 19:40:02 EST 2025
-ci test Thu Nov 13 19:43:35 EST 2025
-ci test Thu Nov 13 19:46:01 EST 2025
-ci test Thu Nov 13 19:47:06 EST 2025
-ci test Thu Nov 13 19:48:33 EST 2025
-ci test Thu Nov 13 19:50:30 EST 2025
-ci test Thu Nov 13 19:51:28 EST 2025
-ci test Thu Nov 13 19:51:51 EST 2025
-ci test Thu Nov 13 19:53:58 EST 2025
+reg testsci test Thu Nov 13 19:55:14 EST 2025
