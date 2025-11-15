@@ -1,11 +1,9 @@
+Commands/notes only—do not store real secrets here.
+
 docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 
-08b9b78895cd469abdc04b6d53301c68
+<JENKINS_INITIAL_PASSWORD_PLACEHOLDER>
 
-05814ebf40ce468ab032eb6e19f6e490
-
-
-
-export NGROK_AUTH_TOKEN="357xa26GKtWv8j6YSj8ptmu7HaQ_5A7yMBPj1uHxL3396Bt5v"
+export NGROK_AUTH_TOKEN="<YOUR_NGROK_TOKEN>"
 ngrok config add-authtoken "$NGROK_AUTH_TOKEN"
 can
