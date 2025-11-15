@@ -7,3 +7,6 @@ docker exec jenkins cat /var/jenkins_home/secrets/initialAdminPassword
 export NGROK_AUTH_TOKEN="<YOUR_NGROK_TOKEN>"
 ngrok config add-authtoken "$NGROK_AUTH_TOKEN"
 can
+
+b68c4ae3116d403db4c72018d06fbe54
+REGISTRY_CREDS
